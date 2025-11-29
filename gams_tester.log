@@ -1,0 +1,33 @@
+
+--- Job gams_tester.gms Start 12/20/23 16:50:23 44.3.0 8b8fb1cb WEX-WEI x86 64bit/MS Windows
+--- Applying:
+    C:\GAMS\44\gmsprmNT.txt
+--- GAMS Parameters defined
+    Input C:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gams_tester.gms
+    PageSize 0
+    ScrDir C:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\225a\
+    SysDir C:\GAMS\44\
+    LogOption 3
+    ErrMsg 1
+    ErrorLog 99
+    IDE 1
+    LstTitleLeftAligned 1
+Licensee: Introduction to Optimization (CS/ISyE/ECE 524) G230906|0002AS-GEN
+          UW-Madison, CS Dept., Fall 2023, Prof. Ferris              DCE850
+          C:\Users\maxwe\OneDrive\Documents\GAMS\gamslice.txt
+          License Admin: Michael C. Ferris, ferris@cs.wisc.edu             
+          Course license for use within the course and related course work
+Processor information: 1 socket(s), 4 core(s), and 8 thread(s) available
+GAMS 44.3.0   Copyright (C) 1987-2023 GAMS Development. All rights reserved
+--- Starting compilation
+--- gams_tester.gms(4) 2 Mb
+--- call csv2gdx songdata.csv id=d index=1 values=2..lastCol useHeader=y storeZero=y
+No errors, CSV2GDX time = 15ms
+--- gams_tester.gms(23) 2 Mb
+--- GDXin=C:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\songdata.gdx
+--- GDX File ($gdxIn) C:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\songdata.gdx
+--- gams_tester.gms(40) 3 Mb
+--- Starting execution: elapsed 0:00:00.066
+--- gams_tester.gms(30) 4 Mb
+*** Status: Normal completion
+--- Job gams_tester.gms Stop 12/20/23 16:50:23 elapsed 0:00:00.066

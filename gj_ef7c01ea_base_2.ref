@@ -1,0 +1,326 @@
+1 138 i SETS declared 4 3 6 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+2 138 i SETS defined 5 4 8 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+3 138 i SETS defined 5 4 8 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+4 139 j SETS declared 6 5 6 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+5 139 j SETS defined 7 6 8 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+6 139 j SETS defined 7 6 8 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+7 140 d PARAMETERS declared 8 7 12 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+8 139 j SETS ref 8 7 14 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+9 138 i SETS ref 8 7 16 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+10 140 d PARAMETERS defined 9 8 8 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+11 140 d PARAMETERS defined 9 8 8 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+12 141 arcs SETS declared 13 12 9 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+13 138 i SETS ref 13 12 11 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+14 138 i SETS ref 13 12 14 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+15 138 i SETS ref 14 13 8 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+16 142 k SETS declared 14 13 11 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+17 143 l SETS declared 14 13 14 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+18 144 danceability PARAMETERS declared 17 16 23 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+19 138 i SETS ref 17 16 25 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+20 145 energy PARAMETERS declared 17 16 34 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+21 138 i SETS ref 17 16 36 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+22 146 key PARAMETERS declared 17 16 42 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+23 138 i SETS ref 17 16 44 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+24 147 loudness PARAMETERS declared 17 16 55 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+25 138 i SETS ref 17 16 57 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+26 148 mode PARAMETERS declared 17 16 64 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+27 138 i SETS ref 17 16 66 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+28 149 speechiness PARAMETERS declared 17 16 80 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+29 138 i SETS ref 17 16 82 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+30 150 acousticness PARAMETERS declared 17 16 97 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+31 138 i SETS ref 17 16 99 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+32 151 instrumentalness PARAMETERS declared 17 16 118 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+33 138 i SETS ref 17 16 120 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+34 152 valence PARAMETERS declared 17 16 130 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+35 138 i SETS ref 17 16 132 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+36 153 tempo PARAMETERS declared 17 16 140 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+37 138 i SETS ref 17 16 142 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+38 154 durration PARAMETERS declared 17 16 154 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+39 138 i SETS ref 17 16 156 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+40 155 time_signature PARAMETERS declared 17 16 173 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+41 138 i SETS ref 17 16 175 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+42 156 supply PARAMETERS declared 17 16 184 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+43 138 i SETS ref 17 16 186 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+44 138 i SETS control 19 18 16 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+45 144 danceability PARAMETERS assigned 19 18 20 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+46 140 d PARAMETERS ref 19 18 20 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+47 138 i SETS ref 19 18 39 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+48 138 i SETS control 20 19 10 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+49 145 energy PARAMETERS assigned 20 19 14 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+50 140 d PARAMETERS ref 20 19 14 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+51 138 i SETS ref 20 19 27 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+52 138 i SETS control 21 20 7 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+53 146 key PARAMETERS assigned 21 20 11 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+54 140 d PARAMETERS ref 21 20 11 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+55 138 i SETS ref 21 20 21 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+56 138 i SETS control 22 21 12 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+57 147 loudness PARAMETERS assigned 22 21 16 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+58 140 d PARAMETERS ref 22 21 16 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+59 138 i SETS ref 22 21 31 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+60 138 i SETS control 23 22 8 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+61 148 mode PARAMETERS assigned 23 22 12 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+62 140 d PARAMETERS ref 23 22 12 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+63 138 i SETS ref 23 22 23 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+64 138 i SETS control 24 23 15 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+65 149 speechiness PARAMETERS assigned 24 23 19 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+66 140 d PARAMETERS ref 24 23 19 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+67 138 i SETS ref 24 23 37 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+68 138 i SETS control 25 24 16 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+69 150 acousticness PARAMETERS assigned 25 24 20 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+70 140 d PARAMETERS ref 25 24 20 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+71 138 i SETS ref 25 24 39 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+72 138 i SETS control 26 25 20 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+73 151 instrumentalness PARAMETERS assigned 26 25 24 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+74 140 d PARAMETERS ref 26 25 24 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+75 138 i SETS ref 26 25 47 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+76 138 i SETS control 27 26 11 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+77 152 valence PARAMETERS assigned 27 26 15 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+78 140 d PARAMETERS ref 27 26 15 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+79 138 i SETS ref 27 26 29 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+80 138 i SETS control 28 27 9 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+81 153 tempo PARAMETERS assigned 28 27 13 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+82 140 d PARAMETERS ref 28 27 13 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+83 138 i SETS ref 28 27 25 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+84 138 i SETS control 29 28 13 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+85 154 durration PARAMETERS assigned 29 28 17 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+86 140 d PARAMETERS ref 29 28 17 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+87 138 i SETS ref 29 28 35 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+88 138 i SETS control 30 29 18 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+89 155 time_signature PARAMETERS assigned 30 29 22 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+90 140 d PARAMETERS ref 30 29 22 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+91 138 i SETS ref 30 29 43 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+92 157 timelimit PARAMETERS declared 33 32 17 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+93 157 timelimit PARAMETERS defined 33 32 87 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+94 158 cost VARIABLES declared 35 34 14 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+95 159 arccost VARIABLES declared 35 34 23 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+96 138 i SETS ref 35 34 25 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+97 138 i SETS ref 35 34 28 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+98 160 flow VARIABLES declared 36 35 23 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+99 138 i SETS ref 36 35 25 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+100 138 i SETS ref 36 35 28 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+101 161 position VARIABLES declared 36 35 39 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+102 138 i SETS ref 36 35 41 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+103 162 overtime VARIABLES declared 36 35 52 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+104 163 flowat VARIABLES declared 37 36 23 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+105 138 i SETS ref 37 36 25 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+106 138 i SETS ref 37 36 28 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+107 164 songUsed VARIABLES declared 37 36 39 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+108 138 i SETS ref 37 36 41 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+109 138 i SETS control 40 39 9 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+110 142 k SETS control 40 39 12 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+111 165 SameAs SETS ref 41 40 15 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+112 138 i SETS ref 41 40 18 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+113 142 k SETS ref 41 40 21 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+114 138 i SETS ref 42 41 16 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+115 142 k SETS ref 42 41 19 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+116 141 arcs SETS assigned 42 41 24 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+117 148 mode PARAMETERS ref 44 43 17 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+118 138 i SETS ref 44 43 20 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+119 148 mode PARAMETERS ref 44 43 27 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+120 142 k SETS ref 44 43 30 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+121 15 abs FUNCTIONS ref 45 44 22 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+122 146 key PARAMETERS ref 45 44 25 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+123 138 i SETS ref 45 44 28 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+124 146 key PARAMETERS ref 45 44 34 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+125 142 k SETS ref 45 44 37 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+126 15 abs FUNCTIONS ref 45 44 53 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+127 146 key PARAMETERS ref 45 44 56 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+128 138 i SETS ref 45 44 59 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+129 146 key PARAMETERS ref 45 44 65 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+130 142 k SETS ref 45 44 68 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+131 138 i SETS ref 46 45 24 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+132 142 k SETS ref 46 45 27 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+133 141 arcs SETS assigned 46 45 33 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+134 138 i SETS ref 48 47 24 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+135 142 k SETS ref 48 47 27 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+136 141 arcs SETS assigned 48 47 32 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+137 146 key PARAMETERS ref 51 50 20 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+138 138 i SETS ref 51 50 23 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+139 146 key PARAMETERS ref 51 50 29 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+140 142 k SETS ref 51 50 32 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+141 138 i SETS ref 52 51 24 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+142 142 k SETS ref 52 51 27 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+143 141 arcs SETS assigned 52 51 33 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+144 138 i SETS ref 54 53 24 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+145 142 k SETS ref 54 53 27 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+146 141 arcs SETS assigned 54 53 32 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+147 138 i SETS control 60 59 18 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+148 141 arcs SETS assigned 60 59 24 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+149 138 i SETS control 61 60 8 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+150 141 arcs SETS assigned 61 60 23 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+151 138 i SETS control 62 61 8 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+152 141 arcs SETS assigned 62 61 22 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+153 138 i SETS control 63 62 16 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+154 141 arcs SETS assigned 63 62 21 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+155 141 arcs SETS assigned 64 63 28 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+156 156 supply PARAMETERS assigned 66 65 21 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+157 156 supply PARAMETERS assigned 67 66 19 0 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+0 165 size of symboltable
+1 mapval 1 FUNCT 0 0 
+2 ceil 1 FUNCT 0 0 
+3 floor 1 FUNCT 0 0 
+4 round 1 FUNCT 0 0 
+5 mod 1 FUNCT 0 0 
+6 trunc 1 FUNCT 0 0 
+7 sign 1 FUNCT 0 0 
+8 min 1 FUNCT 0 0 
+9 max 1 FUNCT 0 0 
+10 sqr 1 FUNCT 0 0 
+11 exp 1 FUNCT 0 0 
+12 log 1 FUNCT 0 0 
+13 log10 1 FUNCT 0 0 
+14 sqrt 1 FUNCT 0 0 
+15 abs 1 FUNCT 0 0 
+16 cos 1 FUNCT 0 0 
+17 sin 1 FUNCT 0 0 
+18 arctan 1 FUNCT 0 0 
+19 errorf 1 FUNCT 0 0 
+20 uniform 1 FUNCT 0 0 
+21 normal 1 FUNCT 0 0 
+22 power 1 FUNCT 0 0 
+23 jdate 1 FUNCT 0 0 
+24 jtime 1 FUNCT 0 0 
+25 jstart 1 FUNCT 0 0 
+26 jnow 1 FUNCT 0 0 
+27 execerror 1 FUNCT 0 0 
+28 gyear 1 FUNCT 0 0 
+29 gmonth 1 FUNCT 0 0 
+30 gday 1 FUNCT 0 0 
+31 gdow 1 FUNCT 0 0 
+32 gleap 1 FUNCT 0 0 
+33 ghour 1 FUNCT 0 0 
+34 gminute 1 FUNCT 0 0 
+35 gsecond 1 FUNCT 0 0 
+36 execseed 1 FUNCT 0 0 
+37 timestart 1 FUNCT 0 0 
+38 timecomp 1 FUNCT 0 0 
+39 timeexec 1 FUNCT 0 0 
+40 timeclose 1 FUNCT 0 0 
+41 frac 1 FUNCT 0 0 
+42 ErrorLevel 1 FUNCT 0 0 
+43 HeapSize 1 FUNCT 0 0 
+44 Fact 1 FUNCT 0 0 
+45 UniformInt 1 FUNCT 0 0 
+46 PI 1 FUNCT 0 0 
+47 NcpF 1 FUNCT 0 0 
+48 NcpCM 1 FUNCT 0 0 
+49 Entropy 1 FUNCT 0 0 
+50 Sigmoid 1 FUNCT 0 0 
+51 log2 1 FUNCT 0 0 
+52 bool_not 1 FUNCT 0 0 
+53 bool_and 1 FUNCT 0 0 
+54 bool_or 1 FUNCT 0 0 
+55 bool_xor 1 FUNCT 0 0 
+56 bool_imp 1 FUNCT 0 0 
+57 bool_eqv 1 FUNCT 0 0 
+58 rel_eq 1 FUNCT 0 0 
+59 rel_gt 1 FUNCT 0 0 
+60 rel_ge 1 FUNCT 0 0 
+61 rel_lt 1 FUNCT 0 0 
+62 rel_le 1 FUNCT 0 0 
+63 rel_ne 1 FUNCT 0 0 
+64 IfThen 1 FUNCT 0 0 
+65 rPower 1 FUNCT 0 0 
+66 EDist 1 FUNCT 0 0 
+67 div 1 FUNCT 0 0 
+68 div0 1 FUNCT 0 0 
+69 sllog10 1 FUNCT 0 0 
+70 sqlog10 1 FUNCT 0 0 
+71 slexp 1 FUNCT 0 0 
+72 sqexp 1 FUNCT 0 0 
+73 slrec 1 FUNCT 0 0 
+74 sqrec 1 FUNCT 0 0 
+75 cvPower 1 FUNCT 0 0 
+76 vcPower 1 FUNCT 0 0 
+77 Centropy 1 FUNCT 0 0 
+78 Gmillisec 1 FUNCT 0 0 
+79 MaxExecError 1 FUNCT 0 0 
+80 TimeElapsed 1 FUNCT 0 0 
+81 Gamma 1 FUNCT 0 0 
+82 LogGamma 1 FUNCT 0 0 
+83 Beta 1 FUNCT 0 0 
+84 LogBeta 1 FUNCT 0 0 
+85 GammaReg 1 FUNCT 0 0 
+86 BetaReg 1 FUNCT 0 0 
+87 sinh 1 FUNCT 0 0 
+88 cosh 1 FUNCT 0 0 
+89 tanh 1 FUNCT 0 0 
+90 MathLastRC 1 FUNCT 0 0 
+91 MathLastEC 1 FUNCT 0 0 
+92 MathOVal 1 FUNCT 0 0 
+93 SignPower 1 FUNCT 0 0 
+94 HandleStatus 1 FUNCT 0 0 
+95 NcpVUsin 1 FUNCT 0 0 
+96 NcpVUpow 1 FUNCT 0 0 
+97 Binomial 1 FUNCT 0 0 
+98 HandleSubmit 1 FUNCT 0 0 
+99 GamsVersion 1 FUNCT 0 0 
+100 HandleDelete 1 FUNCT 0 0 
+101 tan 1 FUNCT 0 0 
+102 arccos 1 FUNCT 0 0 
+103 arcsin 1 FUNCT 0 0 
+104 arctan2 1 FUNCT 0 0 
+105 sleep 1 FUNCT 0 0 
+106 HeapFree 1 FUNCT 0 0 
+107 HandleCollect 1 FUNCT 0 0 
+108 GamsRelease 1 FUNCT 0 0 
+109 Poly 1 FUNCT 0 0 
+110 LicenseStatus 1 FUNCT 0 0 
+111 LicenseLevel 1 FUNCT 0 0 
+112 HeapLimit 1 FUNCT 0 0 
+113 RandLinear 1 FUNCT 0 0 
+114 RandTriangle 1 FUNCT 0 0 
+115 ForceError 1 FUNCT 0 0 
+116 ForceErrorCnt 1 FUNCT 0 0 
+117 RandBinomial 1 FUNCT 0 0 
+118 JobHandle 1 FUNCT 0 0 
+119 JobStatus 1 FUNCT 0 0 
+120 JobKill 1 FUNCT 0 0 
+121 JobTerminate 1 FUNCT 0 0 
+122 NumCores 1 FUNCT 0 0 
+123 EmbeddedHandle 1 FUNCT 0 0 
+124 PlatformCode 1 FUNCT 0 0 
+125 Logit 1 FUNCT 0 0 
+126 LSEMax 1 FUNCT 0 0 
+127 LSEMaxSc 1 FUNCT 0 0 
+128 LSEMin 1 FUNCT 0 0 
+129 LSEMinSc 1 FUNCT 0 0 
+130  unknown* 1 FUNCT 0 0 
+131 SameAs 10 PRED 2 0 0 0 
+132 Diag 10 PRED 2 0 0 0 
+133 Solvers 10 PRED 1 0 0 
+134 LicenseCodes 10 PRED 1 0 0 
+135 SolverCapabilities 10 PRED 2 0 0 0 
+136 SortedUels 10 PRED 2 0 0 0 
+137 FILE 8 FILE 0 0 Current file name for FILE.xxx use
+138 i 2 SET 1 83 0 song label
+139 j 2 SET 1 12 0 parameter
+140 d 4 PARAM 2 926 139 138 
+141 arcs 2 SET 2 0 138 138 
+142 k 2 SET 1 0 0 Aliased with i
+143 l 2 SET 1 0 0 Aliased with i
+144 danceability 4 PARAM 1 0 138 
+145 energy 4 PARAM 1 0 138 
+146 key 4 PARAM 1 0 138 
+147 loudness 4 PARAM 1 0 138 
+148 mode 4 PARAM 1 0 138 
+149 speechiness 4 PARAM 1 0 138 
+150 acousticness 4 PARAM 1 0 138 
+151 instrumentalness 4 PARAM 1 0 138 
+152 valence 4 PARAM 1 0 138 
+153 tempo 4 PARAM 1 0 138 
+154 durration 4 PARAM 1 0 138 
+155 time_signature 4 PARAM 1 0 138 
+156 supply 4 PARAM 1 0 138 
+157 timelimit 4 PARAM 0 1 the set should be a minimum of one hour (3.6 million milliseconds)
+158 cost 5 VAR 0 0 
+159 arccost 5 VAR 2 0 138 138 
+160 flow 5 VAR 2 0 138 138 
+161 position 5 VAR 1 0 138 
+162 overtime 5 VAR 0 0 
+163 flowat 5 VAR 2 0 138 138 
+164 songUsed 5 VAR 1 0 138 
+165 SameAs 2 SET 2 0 0 0 Set Element Comparison Without Checking
+0 2 size of input files
+1 1 INPUT      0 0 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+2 2 GDXIN      1 1 c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2_gdxin.gdx

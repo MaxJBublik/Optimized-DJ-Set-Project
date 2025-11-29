@@ -1,0 +1,100 @@
+GDXIN   c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2_gdxin.gdx
+   4  set i(*) 'song label';
+--- LOAD  i = 1:i
+   6  set j(*) 'parameter';
+--- LOAD  j = 2:j
+   8  parameter d(j,i) '';
+--- LOAD  d = 3:d
+  13  set arcs(i, i);
+  14  alias(i, k, l);
+  15   
+  16   
+  17  parameter danceability(i), energy(i), key(i), loudness(i), mode(i), speechiness(i), acousticness(i), instrumentalness(i), valence(i), tempo(i), durration(i), time_signature(i), supply(i);
+  18   
+  19  danceability(i) = d('danceability', i);
+  20  energy(i) = d('energy', i);
+  21  key(i) = d('key', i);
+  22  loudness(i) = d('loudness', i);
+  23  mode(i) = d('mode', i);
+  24  speechiness(i) = d('speechiness', i);
+  25  acousticness(i) = d('acousticness', i);
+  26  instrumentalness(i) = d('instrumentalness', i);
+  27  valence(i) = d('valence', i);
+  28  tempo(i) = d('tempo', i);
+  29  durration(i) = d('duration_ms', i);
+  30  time_signature(i) = d('time_signature', i);
+  31   
+  32   
+  33  scalar timelimit "the set should be a minimum of one hour (3.6 million milliseconds)" /3600000/;
+  34   
+  35  variable cost, arccost(i, i);
+  36  positive variable flow(i, i), position(i), overtime;
+  37  binary variable flowat(i, i), songUsed(i);
+  38   
+  39   
+  40  Loop((i, k),
+  41      if (sameas(i, k),
+  42          arcs(i, k) = no;
+  43      else
+  44          if (mode(i) = mode(k),
+  45              if ((abs(key(i) - key(k)) <= 1) or (abs(key(i) - key(k)) = 11),
+  46                  arcs(i, k) = yes;
+  47              else
+  48                  arcs(i, k) = no;
+  49              );
+  50          else
+  51              if (key(i) = key(k),
+  52                  arcs(i, k) = yes;
+  53              else
+  54                  arcs(i, k) = no;
+  55              );
+  56      );
+  57  );
+  58  );
+  59   
+  60  arcs('source', i) = yes;
+  61  arcs(i, 'source') = no;
+  62  arcs(i, 'sink') = yes;
+  63  arcs('sink', i) = no;
+  64  arcs('source', 'sink') = no;
+  65   
+  66  supply('source') = 1;
+  67  supply('sink') = -1;
+  68   
+
+**** LIST OF STRAY NAMES - CHECK DECLARATIONS FOR SPURIOUS COMMAS
+**** STRAY NAME overtime OF TYPE VAR  
+GAMS 44.3.0  8b8fb1cb Sep 1, 2023           WEX-WEI x86 64bit/MS Windows - 12/22/23 17:34:19 Page 1
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+Include File Summary
+
+
+   SEQ   GLOBAL TYPE      PARENT   LOCAL  FILENAME
+
+     1        1 INPUT          0       0  c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+     2        2 GDXIN          1       1  c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2_gdxin.gdx
+
+
+COMPILATION TIME     =        0.031 SECONDS      3 MB  44.3.0 8b8fb1cb WEX-WEI
+GAMS 44.3.0  8b8fb1cb Sep 1, 2023           WEX-WEI x86 64bit/MS Windows - 12/22/23 17:34:19 Page 2
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+E x e c u t i o n
+
+
+EXECUTION TIME       =        0.015 SECONDS      4 MB  44.3.0 8b8fb1cb WEX-WEI
+
+
+USER: Introduction to Optimization (CS/ISyE/ECE 524) G230906|0002AS-GEN
+      UW-Madison, CS Dept., Fall 2023, Prof. Ferris              DCE850
+      License for teaching and research at degree granting institutions
+
+
+**** FILE SUMMARY
+
+Restart    c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_cp.g00
+Input      c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.gms
+Output     c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_2.lst
+Save       c:\Users\maxwe\OneDrive\Documents\personal_projects\cs524_DJ_project\gj_ef7c01ea_base_cpnew.g00
+
+**** WARNING - COMPILER OPTIONS ARE NON DEFAULT     ONEMPTY
+     EOLCOM # 
